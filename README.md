@@ -2,6 +2,8 @@
 
 Advanced YouTube project built using React JS as the UI library, Redux Toolkit for state management, React Router DOM v6 for routing, Tailwind CSS for modern user interface design and live YouTube API.
 
+#### Project Link- [https://hvarun13.github.io/youtube-project/](https://hvarun13.github.io/youtube-project/)
+
 #### This project includes following advanced features:
 
 🔍 Search Suggestions - with Optimised API calls using Debouncing method.  

@@ -37,7 +37,7 @@ const Head = () => {
           alt="menu"
           src="https://icon-library.com/images/hamburger-menu-icon-png/hamburger-menu-icon-png-11.jpg"
         />
-        <a href="/">
+        <a href="/youtube-project">
           <img
             className="h-6 mx-2"
             alt="youtube-logo"
